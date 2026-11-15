@@ -49,6 +49,7 @@ No upgrade points. These are the tutorial heroes, and Coupé and Waterboy aren�
 - Vand-Go Opening (1,1,1,3,3): Malevola (about 80%)
 - Cray Cray Bidet: hacking minigame
 - Fight at Crypto Night: Prism (or Punch Up + Prism + Golem for more XP)
+  - Pick the Badass choice
 - Retrieve Stolen Boat (1,2,4,1,2): Invisigal (about 83%)
 - Museum Robbery: take the hack option, or Malevola + Prism for XP
 - Blaze in the Burbs: Golem, choosing “smother the flames” (needs Vigor 4). Don’t send Flambae.
