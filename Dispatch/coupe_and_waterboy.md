@@ -354,5 +354,3 @@ Invisigal is the bottleneck for most Mobility calls, and Golem for most Vigor an
 - Dispatch Wiki, Z Team page (dispatch.wiki.gg/wiki/Z-Team), seen as a search excerpt: stat cap, Prism’s Illusion
 - Fan guides seen as search excerpts (games.gg hero builds, thegamehaus.com synergy pairs): base stats for the other heroes, which disagree in places
 - GamePressure, Episode 3 walkthrough: synergy pairs
-
-If you tell me your roster’s actual stats at the start of a shift, I can redo the sums with real numbers instead of my projections.
